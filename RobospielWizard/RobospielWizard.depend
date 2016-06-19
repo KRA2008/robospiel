@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1386047052 source:c:\users\kevin\midi\robospielwizard\decoder.cpp
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstring>
+	<sstream>
+	<vector>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1343161678 source:c:\users\kevin\midi\viewbinary.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstring>
+	<sstream>
+	<vector>
+

@@ -1,0 +1,6 @@
+move piccolo parts to recorder
+check range overlaps of string parts 4 and 6
+	move 4 up octave if necessary
+	move bass clef stuff on both parts up if necessary
+	move 4 to 6
+correct grace notes in original recorder parts
